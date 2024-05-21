@@ -3,7 +3,7 @@
 To request data from the microservice, you can use an HTTP GET request. Below are the clear instructions:
 
 1.  Make sure microservice is running locally.
-2.  Make an HTTP GET request to the endpoint `/random-pattern` of the microservice.
+2.  Make an HTTP GET request to the endpoint of the microservice.
 3. The microservice will generate a random crochet pattern and return it as a JSON response.
 4. Parse the JSON response to extract the pattern data.
 
@@ -13,7 +13,7 @@ Example call using Python requests library:
 import requests
 
 # Make a GET request to the microservice endpoint
-response = requests.get('http://localhost:5000/random-pattern')
+response = requests.get('http://127.0.0.1:5000') # get this url when you run the app, will display on the command line
 
 # Extract the JSON response
 pattern_data = response.json()
