@@ -20,7 +20,8 @@ response = requests.get('http://localhost:5000/random-pattern')
 pattern_data = response.json()
 
 ```
-![image](https://github.com/maren-cole/Crochet-Post-Repo/assets/138083280/41a17811-45b9-49d4-920d-69718e2d9b1e)
+![image](https://github.com/maren-cole/Crochet-Post-Repo/assets/138083280/f32faab5-f067-4b99-a8ca-311499767ad3)
+
 
 
 ### Mitigation Plan
