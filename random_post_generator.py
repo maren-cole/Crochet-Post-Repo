@@ -8,6 +8,7 @@ crochet_patterns = [
     {
         "name": "Mini Dino",
         "description": "A miniature colorful dino pattern for beginners.",
+        "level": "beginner",
         "time": "2 hours",
         "tools": ["3 mm crochet hook", "8 ply (DK) cotton in the color of your\
                    choice", "8 ply (DK) cotton in blue",
@@ -100,6 +101,7 @@ crochet_patterns = [
     {
      "name": "Crochet Hearts",
      "description": "A crochet hearts pattern for spreading love and joy.",
+     "level": "beginner",
      "time": "1 hour",
      "tools": ["yarn", "3.5mm crochet hook"],
      "size": "4 in. wide",
@@ -129,7 +131,8 @@ crochet_patterns = [
          to create the cardigan-style opening. Finally, the 2nd sleeve is\
          worked. The piece is folded in half, seamed along the underarms and\
          sides, and a simple, single crochet collar is added.",
-     "time": "5 hours",
+     "level": "Intermediate",
+     "time": "15 hours",
      "tools": ["300-400 yards (275-360m) of super bulky cotton yarn",
                "10mm hook"],
      "size": ["S/M 36in (90cm), L/XL 42in (105cm), 2X/3X 52in (135cm)"],
@@ -195,6 +198,7 @@ crochet_patterns = [
      can tend to be a little shy... But Cleo is determined to move past this\
      clam stereotype and meet new friends. He keeps his clam shell propped\
      open as often as he can, and greets any passersby with a cheery “hello!”",
+     "level": "beginner",
      "time": "2 hours",
      "tools": [
          "Crochet hook size: 3.75mm",
@@ -290,6 +294,7 @@ crochet_patterns = [
          collection. It's a one-piece, uncomplicated pattern that is\
          adjustable with simple instructions. The headband features a charming\
          twist detail, making it a stylish accessory for any outfit.",
+     "level": "beginner",
      "time": "",
      "tools": [
          "Yarn - A size 3 DK weight yarn",
@@ -328,6 +333,7 @@ crochet_patterns = [
      Potatoes are very popular with children. This simple design is quick and\
      easy to make, measuring 7cm (2.75”). They make adorable gifts or\
      additions to backpacks, bringing smiles wherever they go.",
+     "level": "beginner",
      "time": "",
      "tools": [
         "20g 8ply(DK) yarn in beige or any potato-colored yarn",
@@ -378,6 +384,7 @@ crochet_patterns = [
      pattern by Annemarie Benthem. Perfect for adding a pop of color to your\
      table setting or as a fun gift for friends and family. The pattern\
      includes instructions for making an apple, lemon, and orange coaster.",
+     "level": "beginner",
      "time": "1 hour",
      "tools": [
         "Paintbox Cotton Aran yarn in various colors (Granite Grey,\
@@ -431,6 +438,7 @@ crochet_patterns = [
      by Adorably Kawaii. Perfect for using up leftover scrap yarns and adding\
      a touch of charm to your accessories. The bag features flower hexagons\
      joined together and topped with straps for easy carrying.",
+     "level": "intermediate",
      "time": "",
      "tools": [
         "Worsted weight yarn in three colors (main color, contrasting color,\
@@ -497,6 +505,7 @@ crochet_patterns = [
      pattern. This pattern includes instructions for the head, body, snout,\
      ears, front legs, back legs, tail, and scarf. Perfect for crochet\
      enthusiasts!",
+     "level": "advanced",
      "time": "",
      "tools": [
         "3 mm Ricorumi hook",
@@ -655,6 +664,7 @@ crochet_patterns = [
      pattern. This pattern includes instructions for making 13 individual\
      squares, outer edging, and straps. Perfect for a day at the beach or a\
      casual outing!",
+     "level": "intermediate",
      "time": "",
      "tools": [
         "US G/6 (4mm) crochet hook",
@@ -758,6 +768,7 @@ crochet_patterns = [
      pattern. The earrings feature a mid-section in brown or black or natural\
      color and yellow petals. They work up quickly and are perfect for adding\
      a touch of sunshine to your outfit!",
+     "level": "beginner",
      "time": "",
      "tools": [
         "1.25mm Crochet hook",
@@ -809,6 +820,7 @@ crochet_patterns = [
      pistachio outer rounds, adorned with a leaf and surface crochet details.\
      Use it in various projects like blankets, cushions, scarves, or table\
      decorations.",
+     "level": "beginner",
      "time": "",
      "tools": [
         "1 ball of paintbox yarns simply DK buttercup yellow",
@@ -872,6 +884,7 @@ crochet_patterns = [
      unique knit-like texture achieved with simple loops and basic joining\
      techniques. The blanket measures approximately 52\" x 52\" and is\
      perfect for adding warmth and style to any room.",
+     "level": "intermediate",
      "time": "",
      "tools": [
         "Bernat® Alize® Blanket-EZ™ (6.4 oz/180 g; 18 yds/16 m)",
@@ -989,6 +1002,7 @@ crochet_patterns = [
      Schachenmayr Catania yarn in various colors and a 2mm crochet hook, you\
      can create this charming project. The finished project measures\
      approximately 12.5cm tall by 10cm wide.",
+     "level": "intermediate",
      "time": "",
      "tools": [
         "Schachenmayr Catania yarn in Sonne (00208 yellow), Apfel\
